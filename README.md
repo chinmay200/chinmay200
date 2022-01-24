@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chinmay</h1>
-<h3 align="center">i just wanted to live not suffer :'(</h3>
+<h3 align="center">Learning those algorithms :)</h3>
 
 - 📫 How to reach me **brborah59@gmail.com**
-
+Or
+- 📫 How to reach me **brborah17@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/yoboi_noob17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yoboi_noob17" height="30" width="40" /></a>
